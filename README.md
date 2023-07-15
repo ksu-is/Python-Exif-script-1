@@ -18,10 +18,6 @@ File name
 
 Date and time
 
-Camera make
-
-Camera model
-
 Photo caption
 
 Photographer's name if in caption. # It must be in format "(Name Name/Agency)". Script will take whatever is between the open parenthesis and the slash.
