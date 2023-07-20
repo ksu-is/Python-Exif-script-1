@@ -64,6 +64,13 @@ files = os.listdir()
 if len(files) == 0:
     print("You don't have have files in the ./images folder.")
     exit()
+
+    # create csv file and write header
+    filename = "exif_data.csv"
+    with open(filename, 'w') as csvfile:
+        csvwriter = csv.writer(csvfile)
+        csvwriter.writerow(['Photo', 'DateTime', 'Make', 'Model'])
+
 # Loop through the files in the images directory.
 for file in files:
     # We add try except black to handle when there are wrong file formats in the ./images folder.
@@ -112,10 +119,22 @@ for file in files:
                 else:
                     # We print data not related to the GPSInfo.
                     print(f"{tag_name} - {value}")
+
+                    if tag_name == "DateTime":
+                        datetime = value
+                    elif tag_name == "Make":
+                        make = value
+                    elif tag_name == "Model":
+                        model = value
+
             # We print the longitudinal and latitudinal data which has been formatted for Google Maps. We only do so if the GPS Coordinates exists. 
             if gps_coords:
                 print(create_google_maps_url(gps_coords))
             # Change back to the original working directory.
+
+            with open(filename, 'a') as csvfile:
+                csvwriter = csv.writer(csvfile)
+                csvwriter.writerow([file, datetime, make, model])
     except IOError:
         print("File format not supported!")
 
