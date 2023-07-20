@@ -39,7 +39,7 @@ for photo in photos:
     try:
         photog = cutline[cutline.find("(")+1:cutline.find("/")]
     except:
-        print "No photographer in cutline."
+        print("No photographer in cutline.")
           
     lat = convert_to_degress(exif['GPSInfo'][2])
     lon = convert_to_degress(exif['GPSInfo'][4])
@@ -48,6 +48,6 @@ for photo in photos:
         lon = lon * -1
     
     table.writerow([photo, datetime, make, model, cutline, photog, lat, lon])
-    print 'Extracting data for photo %s' % photo
+    print('Extracting data for photo %s' % photo)
     
 file.close()

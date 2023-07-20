@@ -1,1 +1,180 @@
-You don't have have files in the ./images folder.
+________________________________________________________________DSC8314.jpg_______________________________________________________________
+ResolutionUnit - 2
+ExifOffset - 192
+Make - SONY
+Model - ILCE-7
+Software - Adobe Lightroom 5.4 (Macintosh)
+DateTime - 2023:05:30 21:24:08
+XResolution - 240.0
+YResolution - 240.0
+ExifVersion - b'0231'
+ShutterSpeedValue - 7.965784
+ApertureValue - 4.643856
+DateTimeOriginal - 2023:04:14 16:12:38
+DateTimeDigitized - 2023:04:14 16:12:38
+BrightnessValue - 6.20078125
+ExposureBiasValue - 0.0
+MaxApertureValue - 2.96875
+MeteringMode - 3
+LightSource - 0
+Flash - 16
+FocalLength - 75.0
+ColorSpace - 1
+DigitalZoomRatio - 1.0
+FocalPlaneXResolution - 1675.2573852539062
+FocalPlaneYResolution - 1675.2573852539062
+OffsetTime - -04:00
+FocalPlaneResolutionUnit - 3
+Saturation - 0
+Sharpness - 0
+FileSource - b'\x03'
+ExposureTime - 0.004
+FNumber - 5.0
+SceneType - b'\x01'
+ExposureProgram - 4
+CustomRendered - 0
+ISOSpeedRatings - 100
+ExposureMode - 0
+SensitivityType - 2
+WhiteBalance - 0
+RecommendedExposureIndex - 100
+LensSpecification - (28.0, 75.0, 2.8, 2.8)
+LensModel - E 28-75mm F2.8-2.8
+FocalLengthIn35mmFilm - 75
+SceneCaptureType - 0
+Contrast - 0
+________________________________________________________________DSC8365.jpg_______________________________________________________________
+ResolutionUnit - 2
+ExifOffset - 192
+Make - SONY
+Model - ILCE-7
+Software - Adobe Lightroom 5.4 (Macintosh)
+DateTime - 2023:05:04 14:14:34
+XResolution - 240.0
+YResolution - 240.0
+ExifVersion - b'0231'
+ShutterSpeedValue - 9.643856
+ApertureValue - 5.310704
+DateTimeOriginal - 2023:04:21 13:31:22
+DateTimeDigitized - 2023:04:21 13:31:22
+BrightnessValue - 9.7359375
+ExposureBiasValue - 0.0
+MaxApertureValue - 2.96875
+MeteringMode - 3
+LightSource - 0
+Flash - 16
+FocalLength - 67.0
+ColorSpace - 1
+DigitalZoomRatio - 1.0
+FocalPlaneXResolution - 1675.2573852539062
+FocalPlaneYResolution - 1675.2573852539062
+OffsetTime - -04:00
+FocalPlaneResolutionUnit - 3
+Saturation - 0
+Sharpness - 0
+FileSource - b'\x03'
+ExposureTime - 0.00125
+FNumber - 6.3
+SceneType - b'\x01'
+ExposureProgram - 3
+CustomRendered - 0
+ISOSpeedRatings - 160
+ExposureMode - 0
+SensitivityType - 2
+WhiteBalance - 0
+RecommendedExposureIndex - 160
+LensSpecification - (28.0, 75.0, 2.8, 2.8)
+LensModel - E 28-75mm F2.8-2.8
+FocalLengthIn35mmFilm - 67
+SceneCaptureType - 0
+Contrast - 0
+________________________________________________________________DSC8374.jpg_______________________________________________________________
+ResolutionUnit - 2
+ExifOffset - 192
+Make - SONY
+Model - ILCE-7
+Software - Adobe Lightroom 5.4 (Macintosh)
+DateTime - 2023:04:25 19:38:46
+XResolution - 240.0
+YResolution - 240.0
+ExifVersion - b'0231'
+ShutterSpeedValue - 8.965784
+ApertureValue - 8.33985
+DateTimeOriginal - 2023:04:21 15:21:38
+DateTimeDigitized - 2023:04:21 15:21:38
+BrightnessValue - 10.84140625
+ExposureBiasValue - 0.0
+MaxApertureValue - 2.96875
+MeteringMode - 3
+LightSource - 0
+Flash - 16
+FocalLength - 28.0
+ColorSpace - 1
+DigitalZoomRatio - 1.0
+FocalPlaneXResolution - 1675.2573852539062
+FocalPlaneYResolution - 1675.2573852539062
+OffsetTime - -04:00
+FocalPlaneResolutionUnit - 3
+Saturation - 0
+Sharpness - 0
+FileSource - b'\x03'
+ExposureTime - 0.002
+FNumber - 18.0
+SceneType - b'\x01'
+ExposureProgram - 3
+CustomRendered - 0
+ISOSpeedRatings - 200
+ExposureMode - 0
+SensitivityType - 2
+WhiteBalance - 0
+RecommendedExposureIndex - 200
+LensSpecification - (28.0, 75.0, 2.8, 2.8)
+LensModel - E 28-75mm F2.8-2.8
+FocalLengthIn35mmFilm - 28
+SceneCaptureType - 0
+Contrast - 0
+________________________________________________________________DSC9412.jpg_______________________________________________________________
+ResolutionUnit - 2
+ExifOffset - 192
+Make - SONY
+Model - ILCE-7
+Software - Adobe Lightroom 5.4 (Macintosh)
+DateTime - 2023:06:28 11:52:25
+XResolution - 240.0
+YResolution - 240.0
+ExifVersion - b'0231'
+ShutterSpeedValue - 7.965784
+ApertureValue - 2.970854
+DateTimeOriginal - 2023:05:25 12:55:12
+DateTimeDigitized - 2023:05:25 12:55:12
+BrightnessValue - 4.63046875
+ExposureBiasValue - 0.0
+MaxApertureValue - 2.96875
+MeteringMode - 3
+LightSource - 0
+Flash - 16
+FocalLength - 28.0
+ColorSpace - 1
+DigitalZoomRatio - 1.0
+FocalPlaneXResolution - 1675.2573852539062
+FocalPlaneYResolution - 1675.2573852539062
+OffsetTime - -04:00
+FocalPlaneResolutionUnit - 3
+Saturation - 0
+Sharpness - 0
+FileSource - b'\x03'
+ExposureTime - 0.004
+FNumber - 2.8
+SceneType - b'\x01'
+ExposureProgram - 4
+CustomRendered - 0
+ISOSpeedRatings - 200
+ExposureMode - 0
+SensitivityType - 2
+WhiteBalance - 0
+RecommendedExposureIndex - 200
+LensSpecification - (28.0, 75.0, 2.8, 2.8)
+LensModel - E 28-75mm F2.8-2.8
+FocalLengthIn35mmFilm - 28
+SceneCaptureType - 0
+Contrast - 0
