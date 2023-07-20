@@ -34,24 +34,6 @@ def convert_decimal_degrees(degree, minutes, seconds, direction):
         decimal_degrees *= -1
     return decimal_degrees
 
-
-# Print Logo
-print("""
-  ____      ___     _____ 
- |  _ \    / \ \   / /_ _|
- | |_) |  / _ \ \ / / | | 
- |  _ <  / ___ \ V /  | | 
- |_| \_\/_/   \_\_/  |___|
-                                              
-                                   
-  _______  _____ _____   _____ ___   ___  _     
- | ____\ \/ /_ _|  ___| |_   _/ _ \ / _ \| |    
- |  _|  \  / | || |_      | || | | | | | | |    
- | |___ /  \ | ||  _|     | || |_| | |_| | |___ 
- |_____/_/\_\___|_|       |_| \___/ \___/|_____|
-                                                
-""")
-
 # Choice whether to keep output in the Terminal or redirect to a file.
 while True:
     output_choice = input("How do you want to receive the output:\n\n1 - File\n2 - Terminal\nEnter choice here: ")
