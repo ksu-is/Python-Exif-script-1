@@ -11,6 +11,7 @@ import os
 import sys
 from PIL import Image
 from PIL.ExifTags import GPSTAGS, TAGS
+import csv
 
 
 # Helper function
@@ -78,10 +79,19 @@ for file in files:
             print(f"{file} contains no exif data.")
         # If exif data are defined we can cycle through the tag, and value for the file.
         else:
+            # create csv file and write header
+            filename = "exif_data.csv"
+            with open(filename, 'w') as csvfile:
+                csvwriter = csv.writer(csvfile)
+                csvwriter.writerow(['Photo', 'DateTime', 'Make', 'Model'])
+
             for tag, value in image._getexif().items():
                 # If you print the tag without running it through the TAGS.get() method you'll get numerical values for every tag. We want the tags in human-readable form. 
                 # You can see the tags and the associated decimal number in the exif standard here: https://exiv2.org/tags.html
                 tag_name = TAGS.get(tag)
+
+                
+
                 #gps
                 if tag_name == "GPSInfo":
                     for key, val in value.items():
